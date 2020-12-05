@@ -1,0 +1,139 @@
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.exe
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.deps.json
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.runtimeconfig.json
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.runtimeconfig.dev.json
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.dll
+C:/Users/Pedro/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.pdb
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.csprojAssemblyReference.cache
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.AssemblyInfoInputs.cache
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.AssemblyInfo.cs
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.csproj.CoreCompileInputs.cache
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.RazorTargetAssemblyInfo.cache
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/staticwebassets/ProjetoEscola_API.StaticWebAssets.Manifest.cache
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/staticwebassets/ProjetoEscola_API.StaticWebAssets.xml
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.dll
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.pdb
+C:/Users/Pedro/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.genruntimeconfig.cache
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.exe
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.deps.json
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.runtimeconfig.json
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.runtimeconfig.dev.json
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.pdb
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.csprojAssemblyReference.cache
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.AssemblyInfoInputs.cache
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.AssemblyInfo.cs
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.csproj.CoreCompileInputs.cache
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.RazorTargetAssemblyInfo.cache
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.csproj.CopyComplete
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/staticwebassets/ProjetoEscola_API.StaticWebAssets.Manifest.cache
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/staticwebassets/ProjetoEscola_API.StaticWebAssets.xml
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.dll
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.pdb
+C:/Users/Pedro/Desktop/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.genruntimeconfig.cache
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.deps.json
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.runtimeconfig.json
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.runtimeconfig.dev.json
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/ProjetoEscola_API.pdb
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.csprojAssemblyReference.cache
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.AssemblyInfoInputs.cache
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.AssemblyInfo.cs
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.csproj.CoreCompileInputs.cache
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/staticwebassets/ProjetoEscola_API.StaticWebAssets.Manifest.cache
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/staticwebassets/ProjetoEscola_API.StaticWebAssets.xml
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/scopedcss/bundle/ProjetoEscola_API.styles.css
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.RazorTargetAssemblyInfo.cache
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.csproj.CopyComplete
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.dll
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.pdb
+/Users/pedro/Desktop/New folder/ProjetoEscola_API/obj/Debug/netcoreapp3.1/ProjetoEscola_API.genruntimeconfig.cache
